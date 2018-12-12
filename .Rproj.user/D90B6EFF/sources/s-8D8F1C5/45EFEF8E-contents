@@ -1,8 +1,0 @@
-\usepackage{titling}
-
-\pretitle{%
-  \begin{center}
-  \LARGE
-  \includegraphics[width=8cm,height=8cm]{images/fct01.jpg}\\[\bigskipamount]
-}
-\posttitle{\end{center}}
